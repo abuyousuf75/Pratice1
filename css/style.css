@@ -26,7 +26,6 @@ ul,li{
     color: #666666;
     font-weight: 800;
     font-family: 'Manrope', sans-serif;
-    padding-top: 20px;
     float: left;
 }
 .logo h3 span{
@@ -37,6 +36,8 @@ ul,li{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 20px;
+    margin: 0px 200px;
 }
 .nav-bar ul{
     display: flex;
@@ -46,7 +47,7 @@ ul,li{
     padding: 20px;
     font-size: 20px;
 }
-.hire{
+.btn-primery{
     padding: 15px 35px;
     background: #FD6E0A;
     border: none;
@@ -56,4 +57,20 @@ ul,li{
     color: #fff;
     cursor: pointer;
     font-size: 20px;
+}
+/*-- nav css =====*/
+#nav-section{
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: #FFF8F3;
+
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 500px;
 }
