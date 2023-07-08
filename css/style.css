@@ -158,3 +158,36 @@ main{
 .containt-info h4{
     padding: 20px 0px;
 }
+
+#summury{
+    padding: 40px 0px;
+}
+.resume{
+    padding: 30px 0px;
+}
+.education-info-main{
+    display: flex;
+
+}
+.education-contant{
+    padding: 40px 0px;
+}
+.education-contant h4{
+    font-family: Open Sans;
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+}
+.education-contant h6{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+    color: #474747;
+}
+.education-contant p{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    color: #474747;
+    padding-top: 30px;
+}
